@@ -1,0 +1,55 @@
+﻿@model Models.RevenueReportViewModel
+
+@{
+    ViewData["Title"] = "Revenue Report";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Revenue Report Dashboard</h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Total Revenue</h6>
+                <h3 class="text-success">₹ @Model.TotalRevenue</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Total Rentals</h6>
+                <h3>@Model.TotalRentals</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Average Payment</h6>
+                <h3>₹ @Model.AveragePayment</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Revenue Today</h6>
+                <h3 class="text-primary">₹ @Model.RevenueToday</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Revenue This Month</h6>
+                <h3 class="text-warning">₹ @Model.RevenueThisMonth</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0 text-center p-3">
+                <h6>Total Payments</h6>
+                <h3>@Model.PaymentsCount</h3>
+            </div>
+        </div>
+
+    </div>
+</div>

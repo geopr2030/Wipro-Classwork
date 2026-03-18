@@ -1,0 +1,110 @@
+<div class="form-container">
+  <div class="form-card">
+    <div class="auth-header">
+      <h2>Host a Property</h2>
+      <p>Fill out the details to list your space on RentAPlace</p>
+    </div>
+    
+    <form (ngSubmit)="onCreateProperty()" class="two-column-form" #createForm="ngForm">
+      <!-- Full width -->
+      <div class="form-group full-width">
+        <label for="title">Property Title</label>
+        <input 
+          type="text" 
+          id="title"
+          [(ngModel)]="title" 
+          name="title" 
+          placeholder="e.g. Cozy Beachfront Villa" 
+          required 
+          #titleCtrl="ngModel"
+        />
+        @if (titleCtrl.invalid && (titleCtrl.dirty || titleCtrl.touched)) {
+          <small class="error-text">Property title is required.</small>
+        }
+      </div>
+      
+      <!-- Full width -->
+      <div class="form-group full-width">
+        <label for="description">Description</label>
+        <textarea 
+          id="description"
+          [(ngModel)]="description" 
+          name="description" 
+          placeholder="Describe what makes your place unique..." 
+          required
+          rows="4"
+          #descCtrl="ngModel"
+        ></textarea>
+        @if (descCtrl.invalid && (descCtrl.dirty || descCtrl.touched)) {
+          <small class="error-text">A description is required.</small>
+        }
+      </div>
+      
+      <!-- Half width columns -->
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input 
+          type="text" 
+          id="location"
+          [(ngModel)]="location" 
+          name="location" 
+          placeholder="City, Country" 
+          required 
+          #locCtrl="ngModel"
+        />
+        @if (locCtrl.invalid && (locCtrl.dirty || locCtrl.touched)) {
+          <small class="error-text">Location is required.</small>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="propertyType">Property Type</label>
+        <input 
+          type="text" 
+          id="propertyType"
+          [(ngModel)]="propertyType" 
+          name="propertyType" 
+          placeholder="e.g. Apartment, House, Cabin" 
+          required 
+          #typeCtrl="ngModel"
+        />
+        @if (typeCtrl.invalid && (typeCtrl.dirty || typeCtrl.touched)) {
+          <small class="error-text">Property type is required.</small>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="pricePerNight">Price per Night ($)</label>
+        <input 
+          type="number" 
+          id="pricePerNight"
+          [(ngModel)]="pricePerNight" 
+          name="pricePerNight" 
+          placeholder="0.00" 
+          min="1"
+          step="0.01"
+          required 
+          #priceCtrl="ngModel"
+        />
+        @if (priceCtrl.invalid && (priceCtrl.dirty || priceCtrl.touched)) {
+          <small class="error-text">Please enter a valid price per night.</small>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="features">Features</label>
+        <input 
+          type="text" 
+          id="features"
+          [(ngModel)]="features" 
+          name="features" 
+          placeholder="e.g. WiFi, Pool, Parking (comma separated)" 
+        />
+      </div>
+      
+      <div class="form-actions full-width">
+        <button type="submit" class="btn-primary" [disabled]="createForm.invalid">List Property</button>
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+<div class="dashboard-container">
+  <div class="dashboard-header">
+    <h2>My Properties</h2>
+    <p>Manage the spaces you are currently hosting.</p>
+  </div>
+
+  @if (isLoading) {
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading your properties...</p>
+    </div>
+  } @else if (error) {
+    <div class="error-banner">{{ error }}</div>
+  } @else {
+    <div class="dashboard-grid">
+      @for (prop of properties; track prop.propertyId) {
+        <div class="dashboard-card">
+          <div class="card-status status-confirmed">
+            {{ prop.isActive ? 'Active' : 'Hidden' }}
+          </div>
+          <div class="card-content">
+            <h3>{{ prop.title }}</h3>
+            <div class="date-range">
+              <span><strong>Type:</strong> {{ prop.propertyType }}</span>
+              <span><strong>Location:</strong> {{ prop.location }}</span>
+              <span><strong>Created:</strong> {{ prop.createdDate | date:'mediumDate' }}</span>
+            </div>
+            <div class="price-total">
+              <strong>Price:</strong> ${{ prop.pricePerNight }} / night
+            </div>
+          </div>
+          
+          <div class="card-actions">
+            <!-- Reuse standard styles -->
+            <a [routerLink]="['/properties', prop.propertyId]" class="btn-secondary btn-sm">View</a>
+            <button (click)="deleteListing(prop.propertyId)" class="btn-danger btn-sm">Delete</button>
+          </div>
+        </div>
+      } @empty {
+        <div class="empty-state">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+          <h3>No properties found</h3>
+          <p>You haven't listed any properties yet.</p>
+          <a routerLink="/create-property" class="btn-primary">Host a Place</a>
+        </div>
+      }
+    </div>
+  }
+</div>

@@ -1,0 +1,21 @@
+<div class="home-container">
+  <div class="hero-section">
+    <div class="hero-content">
+      <h1>Welcome to <span>RentAPlace</span></h1>
+      <p>Your one-stop solution for finding the perfect stay or hosting your property.</p>
+      
+      <div class="hero-actions">
+        @if (auth.isLoggedIn()) {
+          <a routerLink="/properties" class="btn-primary">Explore Listings</a>
+          <a routerLink="/create-property" class="btn-secondary">Host a Place</a>
+        } @else {
+          <a routerLink="/properties" class="btn-primary">Explore Listings</a>
+          <div class="auth-links">
+             <span>Want to host?</span>
+             <a routerLink="/login">Log in</a> or <a routerLink="/register">Sign up</a>
+          </div>
+        }
+      </div>
+    </div>
+  </div>
+</div>

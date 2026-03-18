@@ -1,0 +1,64 @@
+﻿<div class="container-fluid">
+
+    <!-- Hero Section -->
+    <div class="mb-5 text-center">
+        <h1 class="fw-bold">DriveEase Dashboard</h1>
+        <p class="text-muted">Manage vehicles, customers, rentals and revenue efficiently.</p>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="row mb-5">
+        <div class="col-md-3">
+            <a asp-controller="Vehicles" asp-action="Index"
+               class="btn btn-primary w-100 py-3 shadow">
+                🚗 Manage Vehicles
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a asp-controller="Customers" asp-action="Index"
+               class="btn btn-success w-100 py-3 shadow">
+                👤 Manage Customers
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a asp-controller="Leases" asp-action="Index"
+               class="btn btn-warning w-100 py-3 shadow">
+                📄 Active Rentals
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a asp-controller="Payments" asp-action="RevenueReport"
+               class="btn btn-dark w-100 py-3 shadow">
+                💰 Revenue Report
+            </a>
+        </div>
+    </div>
+
+    <!-- Feature Cards -->
+    <div class="row">
+
+        <div class="col-md-6 mb-4">
+            <div class="card shadow border-0 h-100">
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">Vehicle Management</h5>
+                    <p class="card-text text-muted">
+                        Add, update and manage vehicles with availability tracking.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card shadow border-0 h-100">
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">Rental Tracking</h5>
+                    <p class="card-text text-muted">
+                        Monitor active rentals and automatically calculate payments.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

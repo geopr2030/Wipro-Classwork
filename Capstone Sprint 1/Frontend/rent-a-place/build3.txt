@@ -1,0 +1,211 @@
+
+> rent-a-place@0.0.0 build
+> ng build --progress=false
+
+Application bundle generation failed. [4.225 seconds] - 2026-03-15T07:46:06.220Z
+
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8103: NG8103: The `*ngFor` directive was used in the template, but neither the `NgFor` directive nor the `CommonModule` was imported. Use Angular's built-in control flow @for or make sure that either the `NgFor` directive or the `CommonModule` is included in the `@Component.imports` array of this component. Find more at https://v21.angular.dev/extended-diagnostics/NG8103[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.html:3:7:
+[37m      3 │   <li *[32mngFor[37m="let property of properties">
+        ╵        [32m~~~~~[0m
+
+  Warning occurs in the template of component PropertyListingsComponent.
+
+    src/app/components/property-listings/property-listings.ts:6:15:
+[37m      6 │   templateUrl: [32m'./property-listings.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./app"' has no exported member 'AppComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:6:9:
+[37m      6 │ import { [32mAppComponent[37m } from './app';
+        ╵          [32m~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1010: Value at position 0 in the NgModule.declarations of AppModule is not a reference
+  Value could not be determined statically.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:16:16:
+[37m      16 │   declarations: [32m[[37m
+         ╵                 [32m^[0m
+
+  Unknown reference.
+
+    src/app/app-module.ts:17:4:
+[37m      17 │     [32mAppComponent[37m,
+         ╵     [32m~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is part of this module.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.html:344:0:
+[37m      344 │ [32m<router-outlet />[37m
+          ╵ [32m~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component App.
+
+    src/app/app.ts:5:15:
+[37m      5 │   templateUrl: [32m'./app.html'[37m,
+        ╵                [32m~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:3:21:
+[37m      3 │   <input type="text" [32m[(ngModel)]="title"[37m placeholder="Title" requir...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'textarea'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:4:12:
+[37m      4 │   <textarea [32m[(ngModel)]="description"[37m placeholder="Description" req...
+        ╵             [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:5:21:
+[37m      5 │   <input type="text" [32m[(ngModel)]="location"[37m placeholder="Location" ...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:6:21:
+[37m      6 │   <input type="text" [32m[(ngModel)]="propertyType"[37m placeholder="Proper...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:7:23:
+[37m      7 │ ...nput type="number" [32m[(ngModel)]="pricePerNight"[37m placeholder="Pric...
+        ╵                       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.html:8:21:
+[37m      8 │   <input type="text" [32m[(ngModel)]="features"[37m placeholder="Features (...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component CreatePropertyComponent.
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/login/login.html:8:4:
+[37m      8 │     [32m[(ngModel)]="email"[37m
+        ╵     [32m~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LoginComponent.
+
+    src/app/components/login/login.ts:7:15:
+[37m      7 │   templateUrl: [32m'./login.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/login/login.html:16:4:
+[37m      16 │     [32m[(ngModel)]="password"[37m
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LoginComponent.
+
+    src/app/components/login/login.ts:7:15:
+[37m      7 │   templateUrl: [32m'./login.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'routerLink' since it isn't a known property of 'a'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.html:8:7:
+[37m      8 │     <a [32m[routerLink]="['/properties', property.propertyId]"[37m>View Det...
+        ╵        [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component PropertyListingsComponent.
+
+    src/app/components/property-listings/property-listings.ts:6:15:
+[37m      6 │   templateUrl: [32m'./property-listings.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.html:3:21:
+[37m      3 │   <input type="text" [32m[(ngModel)]="fullName"[37m placeholder="Full Name"...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component RegisterComponent.
+
+    src/app/components/register/register.ts:6:15:
+[37m      6 │   templateUrl: [32m'./register.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.html:4:22:
+[37m      4 │   <input type="email" [32m[(ngModel)]="email"[37m placeholder="Email" requi...
+        ╵                       [32m~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component RegisterComponent.
+
+    src/app/components/register/register.ts:6:15:
+[37m      6 │   templateUrl: [32m'./register.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.html:5:25:
+[37m      5 │ ...nput type="password" [32m[(ngModel)]="password"[37m placeholder="Passwor...
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component RegisterComponent.
+
+    src/app/components/register/register.ts:6:15:
+[37m      6 │   templateUrl: [32m'./register.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m

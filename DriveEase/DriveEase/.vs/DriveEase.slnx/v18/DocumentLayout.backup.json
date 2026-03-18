@@ -1,0 +1,740 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\dal\\driveeasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\driveeasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\payments\\revenuereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\payments\\revenuereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\controllers\\leasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\controllers\\leasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\active.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\active.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E8E692-5E1C-443C-9C94-5FE129F18CDA}|DriveEase.Tests\\DriveEase.Tests.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease.tests\\paymentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E8E692-5E1C-443C-9C94-5FE129F18CDA}|DriveEase.Tests\\DriveEase.Tests.csproj|solutionrelative:driveease.tests\\paymentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\models\\revenuereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|solutionrelative:models\\revenuereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\dal\\migrations\\20260227065707_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20260227065707_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\driveease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\driveease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\models\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C6A48-AE34-D77E-44A9-AF0CD30983F0}|Models\\Models.csproj|solutionrelative:models\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\leases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\leases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\OneDrive\\Desktop\\C  sharp\\DriveEase\\DAL\\Migrations\\20260225093357_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\driveease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B1EDF4-64EA-882C-0606-C691BBFD4A6E}|DriveEase\\DriveEase.csproj|solutionrelative:driveease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\dal\\migrations\\20260225093933_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20260225093933_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\kiit\\onedrive\\desktop\\driveease\\dal\\migrations\\20260227065931_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20260227065931_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Index.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Index.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T04:52:58.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RevenueReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\RevenueReport.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Payments\\RevenueReport.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\RevenueReport.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Payments\\RevenueReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T06:54:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriveEaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\DriveEaseContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DriveEaseContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\DriveEaseContext.cs",
+              "RelativeToolTip": "DAL\\DriveEaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:16:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:06:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\appsettings.json",
+              "RelativeDocumentMoniker": "DriveEase\\appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\appsettings.json",
+              "RelativeToolTip": "DriveEase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T06:28:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Delete.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:14:27.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T08:56:35.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:35:38.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T06:29:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "DriveEase\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAIwOYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:48:04.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Vehicles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Index.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Vehicles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:26:28.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Payments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\Index.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Payments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T11:22:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeasesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\LeasesController.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Controllers\\LeasesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\LeasesController.cs",
+              "RelativeToolTip": "DriveEase\\Controllers\\LeasesController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAA2wBgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:47:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Return.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Return.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Return.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Return.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Return.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:49:40.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Create.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Create.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T05:24:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Active.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Active.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Active.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Active.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Active.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:50:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:50:42.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T11:46:09.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T11:39:44.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase.Tests\\PaymentsControllerTests.cs",
+              "RelativeDocumentMoniker": "DriveEase.Tests\\PaymentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase.Tests\\PaymentsControllerTests.cs",
+              "RelativeToolTip": "DriveEase.Tests\\PaymentsControllerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:46:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260227065931_third.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260227065931_third.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20260227065931_third.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260227065931_third.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20260227065931_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:59:31.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Program.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Program.cs",
+              "RelativeToolTip": "DriveEase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T06:22:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RevenueReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\RevenueReportViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RevenueReportViewModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\RevenueReportViewModel.cs",
+              "RelativeToolTip": "Models\\RevenueReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:46:41.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260227065707_second.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260227065707_second.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20260227065707_second.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260227065707_second.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20260227065707_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:57:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DriveEase.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\DriveEase.csproj",
+              "RelativeDocumentMoniker": "DriveEase\\DriveEase.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\DriveEase.csproj",
+              "RelativeToolTip": "DriveEase\\DriveEase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T07:12:36.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lease.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Lease.cs",
+              "RelativeDocumentMoniker": "Models\\Lease.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Lease.cs",
+              "RelativeToolTip": "Models\\Lease.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:08:29.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:13:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:09:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\Create.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Payments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Payments\\Create.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Payments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:50:38.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DriveEase\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:46:17.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "DriveEase\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:45:31.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Vehicles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Create.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Vehicles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:50:45.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Vehicles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Vehicles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:25:07.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Vehicles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Delete.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Vehicles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:26:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Details.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Vehicles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Vehicles\\Details.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Vehicles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:30:25.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DriveEase\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:46:34.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T06:29:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Edit.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:17:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Details.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Leases\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Leases\\Details.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Leases\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:14:26.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DriveEase\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "DriveEase\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T06:29:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DriveEase\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DriveEase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DriveEase\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:10:47.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260225093933_first.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260225093933_first.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20260225093933_first.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\Migrations\\20260225093933_first.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20260225093933_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:39:33.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260225093357_first.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\C  sharp\\DriveEase\\DAL\\Migrations\\20260225093357_first.cs",
+              "RelativeDocumentMoniker": "..\\C  sharp\\DriveEase\\DAL\\Migrations\\20260225093357_first.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\C  sharp\\DriveEase\\DAL\\Migrations\\20260225093357_first.cs",
+              "RelativeToolTip": "..\\C  sharp\\DriveEase\\DAL\\Migrations\\20260225093357_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:33:57.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DriveEase\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T07:23:06.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

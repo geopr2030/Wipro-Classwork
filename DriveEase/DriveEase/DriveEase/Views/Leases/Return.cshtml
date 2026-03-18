@@ -1,0 +1,36 @@
+﻿@model Models.Lease
+
+@{
+    ViewData["Title"] = "Return Vehicle";
+}
+
+<h2>Return Vehicle</h2>
+
+<h4>Are you sure you want to return this vehicle?</h4>
+
+<hr />
+
+<dl class="row">
+    <dt class="col-sm-2">Vehicle</dt>
+    <dd class="col-sm-10">@Model.Vehicle?.Make</dd>
+
+    <dt class="col-sm-2">Customer</dt>
+    <dd class="col-sm-10">@Model.Customer?.Email</dd>
+
+    <dt class="col-sm-2">Start Date</dt>
+    <dd class="col-sm-10">@Model.StartDate</dd>
+
+    <dt class="col-sm-2">End Date</dt>
+    <dd class="col-sm-10">@Model.EndDate</dd>
+
+    <dt class="col-sm-2">Type</dt>
+    <dd class="col-sm-10">@Model.Type</dd>
+</dl>
+
+<form asp-action="Return" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="LeaseId" />
+
+    <input type="submit" value="Confirm Return" class="btn btn-warning" />
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

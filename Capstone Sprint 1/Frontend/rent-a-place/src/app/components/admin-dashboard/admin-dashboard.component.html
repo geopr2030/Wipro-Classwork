@@ -1,0 +1,100 @@
+<div class="dashboard-container admin-dashboard">
+  <div class="dashboard-header flex-header">
+    <div>
+      <h2>Admin Control Panel</h2>
+      <p>Manage all platform users and properties.</p>
+    </div>
+    <div class="header-actions">
+      <!-- Admin Tab Controls -->
+      <button 
+        class="tab-btn" 
+        [class.active]="activeTab === 'users'" 
+        (click)="setTab('users')"
+      >
+        Users
+      </button>
+      <button 
+        class="tab-btn" 
+        [class.active]="activeTab === 'properties'" 
+        (click)="setTab('properties')"
+      >
+        Properties
+      </button>
+    </div>
+  </div>
+
+  @if (activeTab === 'users') {
+    <div class="admin-section">
+      <h3>Registered Users</h3>
+      @if (isLoadingUsers) {
+        <div class="loading-state"><div class="spinner"></div></div>
+      } @else {
+        <div class="table-responsive">
+          <table class="admin-table">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Role</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              @for (user of users; track user.id) {
+                <tr>
+                  <td class="id-col" title="{{ user.id }}">{{ user.id.substring(0, 8) }}...</td>
+                  <td><strong>{{ user.fullName }}</strong></td>
+                  <td>{{ user.email }}</td>
+                  <td><span class="role-badge" [class.role-admin]="user.role === 'Admin'" [class.role-owner]="user.role === 'Owner'">{{ user.role }}</span></td>
+                  <td>
+                    @if (user.role !== 'Admin') {
+                      <button class="btn-danger btn-sm" (click)="deleteUser(user.id)">Delete</button>
+                    } @else {
+                      <span class="text-muted text-sm">Protected</span>
+                    }
+                  </td>
+                </tr>
+              } @empty {
+                <tr><td colspan="5" class="text-center py-4">No users found.</td></tr>
+              }
+            </tbody>
+          </table>
+        </div>
+      }
+    </div>
+  }
+
+  @if (activeTab === 'properties') {
+    <div class="admin-section">
+      <h3>Platform Properties</h3>
+      @if (isLoadingProperties) {
+        <div class="loading-state"><div class="spinner"></div></div>
+      } @else {
+        <div class="dashboard-grid">
+          @for (prop of properties; track prop.propertyId) {
+            <div class="dashboard-card">
+              <div class="card-status status-confirmed">ID: {{ prop.propertyId }}</div>
+              <div class="card-content mt-2 pt-2">
+                <h3>{{ prop.title }}</h3>
+                <div class="date-range">
+                  <span><strong>Owner:</strong> {{ prop.ownerId ? prop.ownerId.substring(0,8) + '...' : 'Unknown' }}</span>
+                  <span><strong>Location:</strong> {{ prop.location }}</span>
+                  <span><strong>Price:</strong> ${{ prop.pricePerNight }} / night</span>
+                </div>
+              </div>
+              <div class="card-actions mt-3">
+                <a [routerLink]="['/properties', prop.propertyId]" class="btn-secondary btn-sm" target="_blank">View</a>
+                <button (click)="deleteProperty(prop.propertyId)" class="btn-danger btn-sm">Delete</button>
+              </div>
+            </div>
+          } @empty {
+            <div class="empty-state py-4">
+              <p>No properties listed on the platform.</p>
+            </div>
+          }
+        </div>
+      }
+    </div>
+  }
+</div>

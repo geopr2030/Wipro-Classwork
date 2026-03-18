@@ -1,0 +1,334 @@
+
+> rent-a-place@0.0.0 build
+> ng build --progress=false
+
+Application bundle generation failed. [2.340 seconds] - 2026-03-15T07:42:44.851Z
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app-routing.module' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:5:33:
+[37m      5 │ import { AppRoutingModule } from [32m'./app-routing.module'[37m;
+        ╵                                  [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:6:29:
+[37m      6 │ import { AppComponent } from [32m'./app.component'[37m;
+        ╵                              [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/home/home.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:7:30:
+[37m      7 │ import { HomeComponent } from [32m'./components/home/home.component'[37m;
+        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/login/login.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:8:31:
+[37m      8 │ import { LoginComponent } from [32m'./components/login/login.component'[37m;
+        ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/register/register.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:9:34:
+[37m      9 │ ...egisterComponent } from [32m'./components/register/register.component'[37m;
+        ╵                            [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/property-listings/property-listings.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:10:42:
+[37m      10 │ ...nt } from [32m'./components/property-listings/property-listings.com[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/property-details/property-details.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:11:41:
+[37m      11 │ ...nt } from [32m'./components/property-details/property-details.compo[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/create-property/create-property.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:12:40:
+[37m      12 │ ...nt } from [32m'./components/create-property/create-property.compone[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/user-profile/user-profile.component' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:13:37:
+[37m      13 │ ...mponent } from [32m'./components/user-profile/user-profile.component'[37m;
+         ╵                   [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1010: Value at position 0 in the NgModule.declarations of AppModule is not a reference
+  Value could not be determined statically.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:16:16:
+[37m      16 │   declarations: [32m[[37m
+         ╵                 [32m^[0m
+
+  Unknown reference.
+
+    src/app/app-module.ts:17:4:
+[37m      17 │     [32mAppComponent[37m,
+         ╵     [32m~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./components/register/register"' has no exported member 'Register'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-routing-module.ts:5:9:
+[37m      5 │ import { [32mRegister[37m } from './components/register/register';
+        ╵          [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./components/property-listings/property-listings"' has no exported member 'PropertyListings'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-routing-module.ts:6:9:
+[37m      6 │ import { [32mPropertyListings[37m } from './components/property-listings/pr...
+        ╵          [32m~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./components/property-details/property-details"' has no exported member 'PropertyDetails'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-routing-module.ts:7:9:
+[37m      7 │ import { [32mPropertyDetails[37m } from './components/property-details/prop...
+        ╵          [32m~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./components/create-property/create-property"' has no exported member 'CreateProperty'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-routing-module.ts:8:9:
+[37m      8 │ import { [32mCreateProperty[37m } from './components/create-property/create...
+        ╵          [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is part of this module.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.html:344:0:
+[37m      344 │ [32m<router-outlet />[37m
+          ╵ [32m~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component App.
+
+    src/app/app.ts:5:15:
+[37m      5 │   templateUrl: [32m'./app.html'[37m,
+        ╵                [32m~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module 'src/app/services/property.service' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.ts:2:32:
+[37m      2 │ import { PropertyService } from [32m'src/app/services/property.service'[37m;
+        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find template file './create-property.component.html'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.ts:6:15:
+[37m      6 │   templateUrl: [32m'./create-property.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'response' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.ts:30:6:
+[37m      30 │       [32mresponse[37m => {
+         ╵       [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'error' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/create-property/create-property.ts:34:6:
+[37m      34 │       [32merror[37m => {
+         ╵       [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/login/login.html:8:4:
+[37m      8 │     [32m[(ngModel)]="email"[37m
+        ╵     [32m~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LoginComponent.
+
+    src/app/components/login/login.ts:7:15:
+[37m      7 │   templateUrl: [32m'./login.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/login/login.html:16:4:
+[37m      16 │     [32m[(ngModel)]="password"[37m
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LoginComponent.
+
+    src/app/components/login/login.ts:7:15:
+[37m      7 │   templateUrl: [32m'./login.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find stylesheet file './login.scss'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/login/login.ts:8:14:
+[37m      8 │   styleUrls: [[32m'./login.scss'[37m]
+        ╵               [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module 'src/app/services/property.service' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-details/property-details.ts:3:32:
+[37m      3 │ import { PropertyService } from [32m'src/app/services/property.service'[37m;
+        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find template file './property-details.component.html'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-details/property-details.ts:7:15:
+[37m      7 │   templateUrl: [32m'./property-details.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'data' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-details/property-details.ts:22:7:
+[37m      22 │       ([32mdata[37m) => {
+         ╵        [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'error' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-details/property-details.ts:25:7:
+[37m      25 │       ([32merror[37m) => {
+         ╵        [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module 'src/app/services/property.service' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.ts:2:32:
+[37m      2 │ import { PropertyService } from [32m'src/app/services/property.service'[37m;
+        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find template file './property-listings.component.html'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.ts:6:15:
+[37m      6 │   templateUrl: [32m'./property-listings.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'data' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.ts:20:7:
+[37m      20 │       ([32mdata[37m) => {
+         ╵        [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'error' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/property-listings/property-listings.ts:23:7:
+[37m      23 │       ([32merror[37m) => {
+         ╵        [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module 'src/app/services/auth.service' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.ts:2:28:
+[37m      2 │ import { AuthService } from [32m'src/app/services/auth.service'[37m;
+        ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG2008: Could not find template file './register.component.html'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.ts:6:15:
+[37m      6 │   templateUrl: [32m'./register.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'response' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.ts:24:6:
+[37m      24 │       [32mresponse[37m => {
+         ╵       [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7006: Parameter 'error' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/register/register.ts:28:6:
+[37m      28 │       [32merror[37m => {
+         ╵       [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app-routing.module"[0m
+
+    src/app/app-module.ts:5:33:
+[37m      5 │ import { AppRoutingModule } from [32m'./app-routing.module'[37m;
+        ╵                                  [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app.component"[0m
+
+    src/app/app-module.ts:6:29:
+[37m      6 │ import { AppComponent } from [32m'./app.component'[37m;
+        ╵                              [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/home/home.component"[0m
+
+    src/app/app-module.ts:7:30:
+[37m      7 │ import { HomeComponent } from [32m'./components/home/home.component'[37m;
+        ╵                               [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/login/login.component"[0m
+
+    src/app/app-module.ts:8:31:
+[37m      8 │ import { LoginComponent } from [32m'./components/login/login.component'[37m;
+        ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/register/register.component"[0m
+
+    src/app/app-module.ts:9:34:
+[37m      9 │ ...egisterComponent } from [32m'./components/register/register.component'[37m;
+        ╵                            [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/property-listings/property-listings.component"[0m
+
+    src/app/app-module.ts:10:42:
+[37m      10 │ ...nt } from [32m'./components/property-listings/property-listings.com[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/property-details/property-details.component"[0m
+
+    src/app/app-module.ts:11:41:
+[37m      11 │ ...nt } from [32m'./components/property-details/property-details.compo[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/create-property/create-property.component"[0m
+
+    src/app/app-module.ts:12:40:
+[37m      12 │ ...nt } from [32m'./components/create-property/create-property.compone[37m...
+         ╵              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/user-profile/user-profile.component"[0m
+
+    src/app/app-module.ts:13:37:
+[37m      13 │ ...mponent } from [32m'./components/user-profile/user-profile.component'[37m;
+         ╵                   [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m

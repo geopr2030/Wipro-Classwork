@@ -1,0 +1,95 @@
+<div class="auth-container">
+  <div class="auth-card">
+    <div class="auth-header">
+      <h2>Create an Account</h2>
+      <p>Join RentAPlace to list or find properties</p>
+    </div>
+    
+    <form (ngSubmit)="onRegister()" #registerForm="ngForm">
+      <div class="form-group">
+        <label for="fullName">Full Name</label>
+        <input 
+          type="text" 
+          id="fullName"
+          [(ngModel)]="fullName" 
+          name="fullName" 
+          placeholder="e.g. John Doe" 
+          required 
+          #fullNameCtrl="ngModel"
+          autocomplete="name"
+        >
+        @if (fullNameCtrl.invalid && (fullNameCtrl.dirty || fullNameCtrl.touched)) {
+          <small class="error-text">Full name is required.</small>
+        }
+      </div>
+      
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input 
+          type="email" 
+          id="email"
+          [(ngModel)]="email" 
+          name="email" 
+          placeholder="you@example.com" 
+          required 
+          email
+          #emailCtrl="ngModel"
+          autocomplete="email"
+        >
+        @if (emailCtrl.invalid && (emailCtrl.dirty || emailCtrl.touched)) {
+          <small class="error-text">Please enter a valid email address.</small>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="phoneNumber">Phone Number <span class="text-muted">(Optional)</span></label>
+        <input 
+          type="text" 
+          id="phoneNumber"
+          [(ngModel)]="phoneNumber" 
+          name="phoneNumber" 
+          placeholder="(555) 123-4567" 
+          autocomplete="tel"
+        >
+      </div>
+
+      <div class="form-group">
+        <label for="role">Account Type</label>
+        <select 
+          id="role" 
+          [(ngModel)]="role" 
+          name="role" 
+          required
+          class="form-select"
+        >
+          <option value="Renter">Renter (I want to book places)</option>
+          <option value="Owner">Owner (I want to host places)</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input 
+          type="password" 
+          id="password"
+          [(ngModel)]="password" 
+          name="password" 
+          placeholder="Min. 6 characters" 
+          required 
+          minlength="6"
+          #passwordCtrl="ngModel"
+          autocomplete="new-password"
+        >
+        @if (passwordCtrl.invalid && (passwordCtrl.dirty || passwordCtrl.touched)) {
+          <small class="error-text">Password must be at least 6 characters long.</small>
+        }
+      </div>
+      
+      <button type="submit" class="btn-primary" [disabled]="registerForm.invalid">Sign Up</button>
+    </form>
+    
+    <div class="auth-footer">
+      <p>Already have an account? <a routerLink="/login">Log in</a></p>
+    </div>
+  </div>
+</div>

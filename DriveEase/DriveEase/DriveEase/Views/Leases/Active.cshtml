@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Models.Lease>
+
+@{
+    ViewData["Title"] = "Active Rentals";
+}
+
+<h2>Active Rentals</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Vehicle</th>
+            <th>Customer</th>
+            <th>Start Date</th>
+            <th>Expected Return</th>
+            <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Vehicle?.Make @item.Vehicle?.Model</td>
+                <td>@item.Customer?.Email</td>
+                <td>@item.StartDate</td>
+                <td>@item.EndDate</td>
+                <td>@item.Type</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+<div class="profile-container">
+  <div class="profile-card">
+    <div class="profile-header">
+      <div class="avatar-placeholder">
+        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+      </div>
+      <h2>My Profile</h2>
+      <p class="role-badge">Verified User</p>
+    </div>
+    
+    <div class="profile-content">
+      <div class="info-group">
+        <label>Account Status</label>
+        <div class="info-value">
+          <div class="status-indicator active"></div> Active
+        </div>
+      </div>
+      
+      <div class="info-group">
+        <label>Member Since</label>
+        <div class="info-value">Just now</div>
+      </div>
+    </div>
+    
+    <div class="profile-actions">
+      <button class="btn-primary" [routerLink]="['/create-property']">Host a New Place</button>
+      <button class="btn-secondary" [routerLink]="['/properties']">Find a Place</button>
+    </div>
+  </div>
+</div>

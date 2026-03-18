@@ -1,0 +1,41 @@
+
+> rent-a-place@0.0.0 build
+> ng build --progress=false
+
+Application bundle generation failed. [2.352 seconds] - 2026-03-15T07:47:01.402Z
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG6008: Component LoginComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:19:4:
+[37m      19 │     [32mLoginComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG6008: Component RegisterComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:20:4:
+[37m      20 │     [32mRegisterComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG6008: Component PropertyListingsComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:21:4:
+[37m      21 │     [32mPropertyListingsComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG6008: Component PropertyDetailsComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:22:4:
+[37m      22 │     [32mPropertyDetailsComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG6008: Component CreatePropertyComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app-module.ts:23:4:
+[37m      23 │     [32mCreatePropertyComponent[37m,
+         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m

@@ -1,0 +1,35 @@
+.two-column-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.full-width {
+  grid-column: 1 / -1;
+}
+
+label {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+input, textarea {
+  margin-bottom: 0; /* Reset global margin for grid layout */
+}
+
+.form-actions {
+  margin-top: 1rem;
+}
+
+@media (max-width: 600px) {
+  .two-column-form {
+    grid-template-columns: 1fr;
+  }
+}

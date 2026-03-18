@@ -1,0 +1,35 @@
+<nav class="navbar">
+  <div class="nav-container">
+    <div class="nav-brand">
+      <a routerLink="/" class="brand-logo">RentAPlace</a>
+    </div>
+    
+    <ul class="nav-links">
+      <li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a></li>
+      <li><a routerLink="/properties" routerLinkActive="active">Listings</a></li>
+      
+      <!-- Authenticated Links -->
+      @if (auth.isLoggedIn()) {
+        @if (auth.isAdmin()) {
+          <li><a routerLink="/admin" routerLinkActive="active" class="nav-btn-register" style="background:var(--accent-primary); color:white!important;">Admin Dashboard</a></li>
+        }
+        @if (auth.isOwner()) {
+          <li><a routerLink="/create-property" routerLinkActive="active">Host a Place</a></li>
+          <li><a routerLink="/my-listings" routerLinkActive="active">My Listings</a></li>
+        } @else if (!auth.isAdmin()) {
+          <li><a routerLink="/my-reservations" routerLinkActive="active">My Bookings</a></li>
+        }
+        <li><a routerLink="/profile" routerLinkActive="active">Profile</a></li>
+        <li><button class="nav-btn-logout" (click)="logout()">Logout</button></li>
+      } @else {
+        <!-- Guest Links -->
+        <li><a routerLink="/login" routerLinkActive="active" class="nav-btn-login">Login</a></li>
+        <li><a routerLink="/register" routerLinkActive="active" class="nav-btn-register">Sign Up</a></li>
+      }
+    </ul>
+  </div>
+</nav>
+
+<main class="app-content-wrapper">
+  <router-outlet></router-outlet>
+</main>
