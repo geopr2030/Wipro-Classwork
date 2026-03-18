@@ -1,0 +1,22 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\KIIT\Music\CalculatorTestingSolution\CalculatorTestingSolution\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll

@@ -1,0 +1,11 @@
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibManagementSystem.deps.json
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibManagementSystem.dll
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibManagementSystem.pdb
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.AssemblyInfo.cs
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.dll
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibManagementSystem.dll
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibManagementSystem.pdb
+C:\Users\KIIT\Music\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibManagementSystem.dll

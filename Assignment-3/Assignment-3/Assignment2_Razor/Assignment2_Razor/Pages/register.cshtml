@@ -1,0 +1,37 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Student Registration";
+}
+
+<h2>Student Registration Form</h2>
+
+<form method="post" asp-page="register">
+
+    <div>
+        <label>Name:</label>
+        <input asp-for="Student.Name" />
+        <span asp-validation-for="Student.Name" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Email:</label>
+        <input asp-for="Student.Email" />
+        <span asp-validation-for="Student.Email" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Age:</label>
+        <input asp-for="Student.Age" />
+        <span asp-validation-for="Student.Age" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Submit</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

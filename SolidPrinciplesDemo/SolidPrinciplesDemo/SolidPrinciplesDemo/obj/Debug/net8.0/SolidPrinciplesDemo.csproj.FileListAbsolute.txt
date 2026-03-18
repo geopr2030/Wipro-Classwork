@@ -1,0 +1,28 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.exe
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\refint\SolidPrinciplesDemo.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\ref\SolidPrinciplesDemo.dll
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.exe
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.deps.json
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.runtimeconfig.json
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.dll
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.pdb
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfo.cs
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.dll
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\refint\SolidPrinciplesDemo.dll
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.pdb
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.genruntimeconfig.cache
+C:\Users\KIIT\Music\SolidPrinciplesDemo\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\ref\SolidPrinciplesDemo.dll

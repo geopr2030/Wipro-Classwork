@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\moviecatelogapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|c:\\users\\kiit\\music\\moviecatelogapi\\moviecatelogapi\\moviecatelogapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F4AB78-2E88-9FEE-1529-3F766B46D9F3}|MovieCatelogAPI\\MovieCatelogAPI.csproj|solutionrelative:moviecatelogapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieCatelogAPI.http",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI.http",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\MovieCatelogAPI.http",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI.http",
+              "RelativeToolTip": "MovieCatelogAPI\\MovieCatelogAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-11T17:12:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\Controllers\\DirectorsController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "MovieCatelogAPI\\Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:54:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieCatelogAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:53:35.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MovieCatelogAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:48:08.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieCatelogAPI\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:43:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "MovieCatelogAPI\\Models\\Director.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\MovieCatelogAPI\\MovieCatelogAPI\\MovieCatelogAPI\\Models\\Director.cs",
+              "RelativeToolTip": "MovieCatelogAPI\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:43:11.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

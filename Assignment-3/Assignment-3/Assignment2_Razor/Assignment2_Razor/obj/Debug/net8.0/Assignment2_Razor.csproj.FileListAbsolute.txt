@@ -1,0 +1,68 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\appsettings.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.staticwebassets.runtime.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.staticwebassets.endpoints.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.exe
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.RazorAssemblyInfo.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.RazorAssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\bundle\Assignment2_Razor.styles.css
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\projectbundle\Assignment2_Razor.bundle.scp.css
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\refint\Assignment2_Razor.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\ref\Assignment2_Razor.dll
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\appsettings.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.staticwebassets.runtime.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.staticwebassets.endpoints.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.exe
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.deps.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.runtimeconfig.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.dll
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\bin\Debug\net8.0\Assignment2_Razor.pdb
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.AssemblyInfo.cs
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.RazorAssemblyInfo.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.RazorAssemblyInfo.cs
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\bundle\Assignment2_Razor.styles.css
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\scopedcss\projectbundle\Assignment2_Razor.bundle.scp.css
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.dll
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\refint\Assignment2_Razor.dll
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.pdb
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\Assignment2_Razor.genruntimeconfig.cache
+C:\Users\KIIT\Music\Assignment2_Razor\Assignment2_Razor\Assignment2_Razor\obj\Debug\net8.0\ref\Assignment2_Razor.dll

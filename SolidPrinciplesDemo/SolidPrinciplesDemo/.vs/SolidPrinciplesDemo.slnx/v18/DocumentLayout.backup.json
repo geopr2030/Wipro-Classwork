@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\services\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\services\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\models\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\models\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\models\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\models\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\formatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\formatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\formatters\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\formatters\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\services\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\services\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|c:\\users\\kiit\\music\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4711BB-9407-80AA-B7E6-FF592A9C53A1}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Services\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\DocumentFactory.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Services\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:41:42.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\WordDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Models\\WordDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\WordDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Models\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:41:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Models\\PdfDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\PdfDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Models\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:40:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Interfaces\\IDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Interfaces\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:36:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Program.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:08:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:10.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:26:23.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\PdfFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Formatters\\PdfFormatter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\PdfFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Formatters\\PdfFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:23:49.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:21:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Services\\ReportSaver.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportSaver.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Services\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:18:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Services\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportGenerator.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Services\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:12:15.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Models\\Report.cs",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:10:33.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

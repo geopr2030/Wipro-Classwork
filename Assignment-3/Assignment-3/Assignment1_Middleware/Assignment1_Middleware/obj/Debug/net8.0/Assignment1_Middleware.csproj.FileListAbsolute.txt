@@ -1,0 +1,60 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\appsettings.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.staticwebassets.runtime.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.staticwebassets.endpoints.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.exe
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\scopedcss\bundle\Assignment1_Middleware.styles.css
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\refint\Assignment1_Middleware.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\ref\Assignment1_Middleware.dll
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\appsettings.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.staticwebassets.runtime.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.staticwebassets.endpoints.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.exe
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.deps.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.runtimeconfig.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.dll
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\bin\Debug\net8.0\Assignment1_Middleware.pdb
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.AssemblyInfo.cs
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\scopedcss\bundle\Assignment1_Middleware.styles.css
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.dll
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\refint\Assignment1_Middleware.dll
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.pdb
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\Assignment1_Middleware.genruntimeconfig.cache
+C:\Users\KIIT\Music\Assignment1_Middleware\Assignment1_Middleware\Assignment1_Middleware\obj\Debug\net8.0\ref\Assignment1_Middleware.dll

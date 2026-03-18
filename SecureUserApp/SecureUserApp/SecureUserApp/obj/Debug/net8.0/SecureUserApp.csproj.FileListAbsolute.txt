@@ -1,0 +1,28 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.exe
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\refint\SecureUserApp.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\ref\SecureUserApp.dll
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.exe
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.deps.json
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.runtimeconfig.json
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.dll
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\bin\Debug\net8.0\SecureUserApp.pdb
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.AssemblyInfo.cs
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.dll
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\refint\SecureUserApp.dll
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.pdb
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\SecureUserApp.genruntimeconfig.cache
+C:\Users\KIIT\Music\SecureUserApp\SecureUserApp\SecureUserApp\obj\Debug\net8.0\ref\SecureUserApp.dll

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\pages\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\pages\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|c:\\users\\kiit\\music\\assignment2_razor\\assignment2_razor\\assignment2_razor\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB7D14D-55F5-8C2C-9944-50541B2C419C}|Assignment2_Razor\\Assignment2_Razor.csproj|solutionrelative:assignment2_razor\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\Students.cshtml.cs",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Pages\\Students.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\Students.cshtml.cs",
+              "RelativeToolTip": "Assignment2_Razor\\Pages\\Students.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:33:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\Students.cshtml",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Pages\\Students.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\Students.cshtml",
+              "RelativeToolTip": "Assignment2_Razor\\Pages\\Students.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T19:32:29.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment2_Razor\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:29:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\register.cshtml.cs",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Pages\\register.cshtml.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\register.cshtml.cs",
+              "RelativeToolTip": "Assignment2_Razor\\Pages\\register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:18:52.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Program.cs",
+              "RelativeToolTip": "Assignment2_Razor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:11:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\register.cshtml",
+              "RelativeDocumentMoniker": "Assignment2_Razor\\Pages\\register.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment2_Razor\\Assignment2_Razor\\Assignment2_Razor\\Pages\\register.cshtml",
+              "RelativeToolTip": "Assignment2_Razor\\Pages\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T19:15:05.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

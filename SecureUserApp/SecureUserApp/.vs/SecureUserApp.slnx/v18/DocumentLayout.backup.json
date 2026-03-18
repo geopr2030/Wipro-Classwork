@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\logging\\filelogger.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\logging\\filelogger.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0620A9-F0BA-7B31-045E-92379386B5D7}|SecureUserApp.Tests\\SecureUserApp.Tests.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0620A9-F0BA-7B31-045E-92379386B5D7}|SecureUserApp.Tests\\SecureUserApp.Tests.csproj|solutionrelative:secureuserapp.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0620A9-F0BA-7B31-045E-92379386B5D7}|SecureUserApp.Tests\\SecureUserApp.Tests.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0620A9-F0BA-7B31-045E-92379386B5D7}|SecureUserApp.Tests\\SecureUserApp.Tests.csproj|solutionrelative:secureuserapp.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\security\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\security\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\kiit\\music\\secureuserapp\\secureuserapp\\secureuserapp\\secureuserapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B21C358-FA1C-79E9-9ABC-D45BA1EA937A}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\secureuserapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "SecureUserApp.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "SecureUserApp.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:25:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "SecureUserApp.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp.Tests\\Test1.cs",
+              "RelativeToolTip": "SecureUserApp.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:57:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Services\\UserService.cs",
+              "RelativeToolTip": "SecureUserApp\\Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:44:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "SecureUserApp\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:42:34.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Program.cs",
+              "RelativeToolTip": "SecureUserApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:39:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Models\\User.cs",
+              "RelativeToolTip": "SecureUserApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:41:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileLogger.cs.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Logging\\FileLogger.cs.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Logging\\FileLogger.cs.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Logging\\FileLogger.cs.cs",
+              "RelativeToolTip": "SecureUserApp\\Logging\\FileLogger.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:51:12.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Security\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Security\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\Security\\EncryptionService.cs",
+              "RelativeToolTip": "SecureUserApp\\Security\\EncryptionService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:50:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecureUserApp.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\SecureUserApp.csproj",
+              "RelativeDocumentMoniker": "SecureUserApp\\SecureUserApp.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\SecureUserApp\\SecureUserApp\\SecureUserApp\\SecureUserApp.csproj",
+              "RelativeToolTip": "SecureUserApp\\SecureUserApp.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T17:48:57.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

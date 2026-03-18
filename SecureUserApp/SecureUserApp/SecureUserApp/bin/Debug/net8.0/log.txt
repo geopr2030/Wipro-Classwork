@@ -1,0 +1,11 @@
+27-02-2026 23:23:27 : User logged in successfully.
+2026-02-27 23:33:14Z [INFO] User registered successfully
+2026-02-27 23:33:14Z [INFO] Login success for user: abhishek
+2026-02-27 23:36:58Z [INFO] User registered successfully
+2026-02-27 23:36:58Z [INFO] Login success for user: abhishek
+2026-02-27 23:38:23Z [INFO] User registered: abhishek
+2026-02-27 23:38:23Z [INFO] Login success: abhishek
+2026-02-28 13:54:27Z [INFO] User registered: abhishek
+2026-02-28 13:54:27Z [INFO] Login success: abhishek
+2026-02-28 13:55:59Z [INFO] User registered: prashant
+2026-02-28 13:55:59Z [INFO] Login success: prashant

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|c:\\users\\kiit\\music\\assignment1_middleware\\assignment1_middleware\\assignment1_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|solutionrelative:assignment1_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|c:\\users\\kiit\\music\\assignment1_middleware\\assignment1_middleware\\assignment1_middleware\\wwwroot\\script.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|solutionrelative:assignment1_middleware\\wwwroot\\script.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|c:\\users\\kiit\\music\\assignment1_middleware\\assignment1_middleware\\assignment1_middleware\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|solutionrelative:assignment1_middleware\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|c:\\users\\kiit\\music\\assignment1_middleware\\assignment1_middleware\\assignment1_middleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164390D-EF4E-3D2C-DFCC-C87F157F05F9}|Assignment1_Middleware\\Assignment1_Middleware.csproj|solutionrelative:assignment1_middleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1_Middleware\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\Program.cs",
+              "RelativeToolTip": "Assignment1_Middleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T18:27:45.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "Assignment1_Middleware\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\script.js",
+              "RelativeToolTip": "Assignment1_Middleware\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-25T18:29:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "Assignment1_Middleware\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\style.css",
+              "RelativeToolTip": "Assignment1_Middleware\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-25T18:29:23.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Assignment1_Middleware\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\KIIT\\Music\\Assignment1_Middleware\\Assignment1_Middleware\\Assignment1_Middleware\\wwwroot\\index.html",
+              "RelativeToolTip": "Assignment1_Middleware\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-25T18:29:08.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

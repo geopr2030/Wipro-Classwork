@@ -1,0 +1,24 @@
+﻿@page
+@model Assignment2_Razor.Pages.StudentsModel
+
+<h2>Registered Students</h2>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Age</th>
+    </tr>
+
+    @foreach (var s in Model.StudentList)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Email</td>
+            <td>@s.Age</td>
+        </tr>
+    }
+</table>
+
+<br />
+<a href="/register">Add Another Student</a>

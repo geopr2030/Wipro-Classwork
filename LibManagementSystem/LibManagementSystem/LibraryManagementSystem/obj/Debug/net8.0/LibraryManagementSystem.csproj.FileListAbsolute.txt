@@ -1,0 +1,11 @@
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\KIIT\OneDrive\Desktop\C  sharp\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
